@@ -1,3 +1,3 @@
-def percentToDecimal(num):
-    return num / 10
-
+def calculateRatio(A, B, C):
+    D =  int(C * B % A)
+    return D
