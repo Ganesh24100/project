@@ -1,3 +1,3 @@
 def percentToDecimal(num):
-    return num / 500
+    return num / 100
 
